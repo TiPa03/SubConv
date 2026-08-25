@@ -109,6 +109,8 @@ RULESET:
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ChinaCompanyIp.list
 - - 🎯 全球直连
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Download.list
+- - ESJ Zone
+  - https://raw.githubusercontent.com/TiPa03/my_mihomo_rule/refs/heads/main/esjzone.list
 - - 🎯 全球直连
   - '[]GEOIP,CN'
 - - 🐟 漏网之鱼
@@ -148,6 +150,9 @@ CUSTOM_PROXY_GROUP:
   type: select
   prior: PROXY
 - name: 📺 巴哈姆特
+  type: select
+  prior: PROXY
+- name: ESJ Zone
   type: select
   prior: PROXY
 - name: 📺 哔哩哔哩
