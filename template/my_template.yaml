@@ -112,7 +112,7 @@ RULESET:
 - - 🎯 全球直连
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Download.list
 - - game direct
-  - https://raw.githubusercontent.com/TiPa03/my_mihomo_rule/refs/heads/main/direct.list
+  - https://raw.githubusercontent.com/TiPa03/my_mihomo_rule/refs/heads/main/game_direct.list
 - - ESJ Zone
   - https://raw.githubusercontent.com/TiPa03/my_mihomo_rule/refs/heads/main/esjzone.list
 - - 🎯 全球直连
