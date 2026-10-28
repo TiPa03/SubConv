@@ -41,6 +41,8 @@ RULESET:
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/LocalAreaNetwork.list
 - - 🎯 全球直连
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/UnBan.list
+- - 🎯 全球直连
+  - https://raw.githubusercontent.com/TiPa03/my_mihomo_rule/refs/heads/main/game_direct.list
 - - 🛑 广告拦截
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/BanAD.list
 - - 🍃 应用净化
@@ -111,8 +113,6 @@ RULESET:
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/ChinaCompanyIp.list
 - - 🎯 全球直连
   - https://raw.githubusercontent.com/SubConv/ZJU-Rule/main/Clash/Download.list
-- - 🎯 全球直连
-  - https://raw.githubusercontent.com/TiPa03/my_mihomo_rule/refs/heads/main/game_direct.list
 - - ESJ Zone
   - https://raw.githubusercontent.com/TiPa03/my_mihomo_rule/refs/heads/main/esjzone.list
 - - 🎯 全球直连
