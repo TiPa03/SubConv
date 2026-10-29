@@ -217,7 +217,7 @@ CUSTOM_PROXY_GROUP:
   type: url-test
   rule: false
   regex: (?i:\b(?:HK|HKG)\d*\b|Hong.*?Kong|\bHKT\b|\bHKBN\b|\bHGC\b|\bWTT\b|\bCMI\b|[^-]港)
-- name: 🇨🇳 台湾节点
+- name: 🇹🇼 台湾节点
   type: url-test
   rule: false
   regex: (?i:\b(?:TW|TWN)\d*\b|Taiwan|新北|彰化|\bCHT\b|台湾|[^-]台|\bHINET\b)
